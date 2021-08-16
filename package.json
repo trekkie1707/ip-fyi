@@ -1,0 +1,17 @@
+{
+  "name": "pub-ip",
+  "version": "1.0.0",
+  "description": "Grab your public ip address from ipaddress.fyi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "address",
+    "public",
+    "ipv4"
+  ],
+  "author": "trekkie1707",
+  "license": "ISC"
+}
