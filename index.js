@@ -4,7 +4,7 @@ var options = {
   host: "ipaddress.fyi",
 };
 
-function getPublicIp() {
+export function getPublicIp() {
   return new Promise((resolve, reject) => {
     const options = {
       host: "ipaddress.fyi",
