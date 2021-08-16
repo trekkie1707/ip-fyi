@@ -1,6 +1,6 @@
 {
   "name": "ip-fyi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grab your public ip address from ipaddress.fyi.",
   "main": "index.js",
   "scripts": {
